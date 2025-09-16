@@ -1,6 +1,4 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<h1 align="center">Chat & Video Calling App in MERN ✨</h1>
 
 Highlights:
 
