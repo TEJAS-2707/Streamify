@@ -1,4 +1,4 @@
-<h1 align="center">Chat & Video Calling App in MERN ✨</h1>
+<h1 align="center"> Chat & Video Calling App in MERN </h1>
 
 Highlights:
 
